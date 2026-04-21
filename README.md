@@ -1,7 +1,7 @@
-# AI Resume Analyzer & Job Match System
+# AI Resume Analyses & Job Match System
 
 ## Project Overview
-AI Resume Analyzer is a Streamlit-based web application that analyzes resumes and compares them with job descriptions to determine compatibility. It calculates a match score, identifies missing skills, and provides resume improvement suggestions to help users optimize their job applications.
+AI Resume Analyser is a Streamlit-based web application that analyzes resumes and compares them with job descriptions to determine compatibility. It calculates a match score, identifies missing skills, and provides resume improvement suggestions to help users optimize their job applications.
 
 ## Features
 - Upload resume in PDF format  
